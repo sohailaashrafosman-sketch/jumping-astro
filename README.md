@@ -1,2 +1,2 @@
 # jumping-astro
-astronaut 3d game using c++ 
+astronaut 3d game using c++ and glut
